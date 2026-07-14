@@ -3,11 +3,11 @@ Ce projet a pour objectif d'analyser les facteurs qui influencent les pourboires
 
 Le projet couvre l'ensemble des étapes d'un projet de Data Science :
 
-Analyse exploratoire des données (EDA)
-Visualisation des données
-Prétraitement des données
-Entraînement d'un modèle de Machine Learning
-Évaluation des performances du modèle
+- Analyse exploratoire des données (EDA)
+- Visualisation des données
+- Prétraitement des données
+- Entraînement d'un modèle de Machine Learning
+- Évaluation des performances du modèle
 
 
 # Le problème
