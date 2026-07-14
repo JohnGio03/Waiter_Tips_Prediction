@@ -47,12 +47,7 @@ Avant l'entraînement du modèle, plusieurs étapes ont été réalisées :
 
 Variables utilisées :
 
-Total Bill
-Sex
-Smoker
-Day
-Time
-Size
+Total Bill, Sex, Smoker, Day, TimeSize
 
 Variable cible :
 
