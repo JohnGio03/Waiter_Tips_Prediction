@@ -10,10 +10,6 @@ Le projet couvre l'ensemble des étapes d'un projet de Data Science :
 - Évaluation des performances du modèle
 
 
-# Le problème
-Le pourboire laissé à un serveur dépend de plusieurs facteurs : type de restaurant, nombre de convives, montant de l'addition, etc. Ce projet analyse un jeu de données réel de pourboires et entraîne un modèle de machine learning pour prédire le montant du pourboire.
-
-
 # Le Dataset
 Le dataset  contient le sinformations suivantes:
 - Total Bill : montant total de la facture (en dollars)
