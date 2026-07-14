@@ -11,7 +11,7 @@ Le projet couvre l'ensemble des étapes d'un projet de Data Science :
 
 
 # Le Dataset
-Le dataset  contient le sinformations suivantes:
+Le dataset  contient les informations suivantes:
 - Total Bill : montant total de la facture (en dollars)
 - Tip : montant du pourboire (variable cible)
 - Sex : sexe de la personne qui paie
